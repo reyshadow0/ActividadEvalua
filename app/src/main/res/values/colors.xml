@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#1B5E20</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="textBlack">#212121</color>
+    <color name="textBlue">#1565C0</color>
+    <color name="categoryGreen">#4CAF50</color>
+    <color name="categoryYellow">#FFC107</color>
+    <color name="categoryBlue">#2196F3</color>
+    <color name="dividerColor">#E0E0E0</color>
+    <color name="footerText">#9E9E9E</color>
+</resources>
